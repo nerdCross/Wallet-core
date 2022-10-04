@@ -1,4 +1,4 @@
-# Crypto Wallet API built ontop of Wallet-core
+# Crypto Wallet API built ontop of Trust Wallet-core (Golang)
 &nbsp;
 
 # Prerequisite 
