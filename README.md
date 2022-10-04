@@ -6,7 +6,7 @@
 
 &nbsp;
 # Build process
-1. ```git clone https://github.com/nerdCross/Wallet-core.git && cd wallet-api```
+1. ```git clone https://github.com/nerdCross/Wallet-core.git && cd Wallet-core```
 2. ```docker build . --tag wallet-api-dev```
 3. ```docker run -p 8080:8080 -ti wallet-api-dev```
 4. Application is now runing at `http://127.0.0.1:8080`
